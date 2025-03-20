@@ -82,7 +82,11 @@ The dataset contains sales transaction data, including product details, sales am
 📜 Contact Details
 
 📌 Author: Dhaval Rathod
+
 📌 GitHub: DhavalRathod88799
+
 📌 Email: dhavalrathod6452@gmail.com
+
 📌 LinkedIn: www.linkedin.com/in/dhavalrathod88799
+
 📌 Contact: +91 8799547872
